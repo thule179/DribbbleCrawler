@@ -1,0 +1,1 @@
+sudo pip3 install requests selenium-requests selenium
